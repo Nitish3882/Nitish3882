@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Nitish3882/Nitish3882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Glad to see you here ! ✨
 
-Here are some ideas to get you started:
+I am Nitish Rana 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ✨ Aspiring Data Scientist | Tech Enthusiast | Exploring AI Realm
+
+ As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+That's why I like to make things that make a difference.
+
+ - 🔭 I’m currently pursuing Computer Science
+ - 🌱 Passionate about : Data Science , AI/ML
+ - 👯 Hobbies : Photography, Reading , Exploring new things ⚡
+
+![coding](https://github.com/user-attachments/assets/95917950-fbed-4ba7-9d72-55a2259e0256)
+
